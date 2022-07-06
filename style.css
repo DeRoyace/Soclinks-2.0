@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-image: url('images/retro-mustang-wallpaper.jpg');
+    background-attachment: fixed;
     background-size: cover;
     text-align: center;
 }
